@@ -1,5 +1,6 @@
 import Herosection from "./Components/Herosection";
 import Navbar from "./Components/Navbar";
+import SkillSection from "./Components/SkillSection";
 // import ParticleBg from "./Components/ParticalBg";
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Navbar />
       {/* <ParticleBg/> */}
       <Herosection />
+      <SkillSection/>
     </div>
   );
 }
