@@ -29,7 +29,7 @@ export default function Herosection() {
               <ul class="example-2">
                 <li class="icon-content">
                   <a
-                    href="https://linkedin.com/"
+                    href="https://www.linkedin.com/in/parth-kalma-5b3589230/"
                     aria-label="LinkedIn"
                     data-social="linkedin"
                   >
