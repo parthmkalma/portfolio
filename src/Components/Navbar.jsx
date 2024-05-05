@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Navbar() {
   return (
-    <div className="hover:shadow-2xl transition duration-900 ease-in-out ">
+    <div className="hover:shadow-2xl transition duration-900 ease-in-out top-0 left-0 right-0 z-50 fixed">
       <nav className="navbar bg-white shadow-xl mb-[6px] ">
         <div className="flex items-center justify-between ">
           <div className="text-2xl font-bold ml-8 font-Montserrat ">

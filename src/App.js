@@ -6,10 +6,12 @@ import SkillSection from "./Components/SkillSection";
 function App() {
   return (
     <div className="App bg-[#ECF0F3]">
-      <Navbar />
+      <div className="">
+        <Navbar />
+      </div>
       {/* <ParticleBg/> */}
       <Herosection />
-      <SkillSection/>
+      <SkillSection />
     </div>
   );
 }
