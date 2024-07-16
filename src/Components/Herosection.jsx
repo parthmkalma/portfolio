@@ -13,8 +13,9 @@ export default function Herosection() {
                 // Same substring at the start will only be typed out once, initially
                 "a MERN Stack Developer",
                 1000, // wait 1s before replacing "Mice" with "Hamsters"
-                " ",
+                "a Frontend Developer",
                 1000,
+
               ]}
               wrapper="span"
               speed={50}
