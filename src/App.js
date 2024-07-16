@@ -10,6 +10,7 @@ function App() {
         <Navbar />
       </div>
       {/* <ParticleBg/> */}
+      {/* <Cursor/> */}
       <Herosection />
       <SkillSection />
     </div>

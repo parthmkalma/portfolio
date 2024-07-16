@@ -22,7 +22,6 @@ export default function Herosection() {
               className="block text-[36px]"
             />
             <button className="buttonstyle mt-10">Check Resume!!</button>
-            {/* <span class="tooltip">Uiverse.io</span> */}
           </div>
           <div className="flex justify-center ">
             <div className="bottom-[20px] absolute icon">
@@ -32,6 +31,7 @@ export default function Herosection() {
                     href="https://www.linkedin.com/in/parth-kalma-5b3589230/"
                     aria-label="LinkedIn"
                     data-social="linkedin"
+                    target="_blank"
                   >
                     <div class="filled"></div>
                     <svg
